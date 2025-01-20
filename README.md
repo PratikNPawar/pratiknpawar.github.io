@@ -5,7 +5,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Github Repository](https://github.com/PratikNPawar/Metacritic-sentiment-analyzer)
 
 ### Project 2 
 - Description

@@ -1,15 +1,15 @@
-#title: Pratik Pawar
-#logo: docs/assets/Headshot.png
-#description: Data Analyst | Businesss Intelligence | Expert in SQL, Python, PowerBI, Tableau, MS Excel, Azure, AWS, GCP
+title: Pratik Pawar
+logo: docs/assets/Headshot.png
+description: Data Analyst | Businesss Intelligence | Expert in SQL, Python, PowerBI, Tableau, MS Excel, Azure, AWS, GCP
 #show_downloads: true
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 
 # _config.yml
-title: Pratik Pawar
-logo: docs/assets/Headshot.png
-description: Data Analyst | Businesss Intelligence | Expert in SQL, Python, PowerBI, Tableau, MS Excel, Azure, AWS, GCPtheme: jekyll-theme-cayman
-theme: jekyll-theme-minimalurl
+#title: Pratik Pawar
+#logo: docs/assets/Headshot.png
+#description: Data Analyst | Businesss Intelligence | Expert in SQL, Python, PowerBI, Tableau, MS Excel, Azure, AWS, GCPtheme: jekyll-theme-cayman
+#theme: jekyll-theme-minimalurl
 #: "https://your-username.github.io"
 #author:
   #name: "Your Name"

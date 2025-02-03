@@ -1,3 +1,7 @@
+# Summary
+
+Detail-oriented Data Analyst with 5+ years of experience turning complex data into actionable insights that drive business decisions. Skilled in SQL, Python, and BI tools like Power BI and Tableau to optimize reporting and automate workflows. Experienced in cloud-based data solutions, Data governance, and Data visualization to improve efficiency and foster a data-driven culture. With a strong background in Construction and Finance and Marketing, I’m ready to apply my expertise to new industries and deliver impactful results.
+
 # Work Experiance
 - **Data Analyst – Project Controls**, Macan Deve Engineers, DPC, New York, USA, March 2022 – April 2024
 - **Data Analyst**, Vetro Technologies, Inc., New York, USA, September 2021 – February 2022
@@ -16,7 +20,7 @@
 ### Metacritic Sentiment Analyzer 
 - **Description**: The Metacritic Sentiment Analyzer is a Python application that scrapes user reviews from Metacritic and analyzes their sentiment (positive, negative, or neutral). It helps understand public opinion on movies, TV shows, or video games through sentiment classification.
 - **Technologies**: Python, Flask (Web Framework), PostgreSQL (Database), BeautifulSoup (Web Scraping), NLTK & VADER (Sentiment Analysis)
-- - **GitHub**: [Github Repository](https://github.com/PratikNPawar/Metacritic-sentiment-analyzer)
+- **GitHub**: [Github Repository](https://github.com/PratikNPawar/Metacritic-sentiment-analyzer)
 
 ### FoodEx Online-food-delivery-database
 - **Description**: The Online Food Delivery Analytics Dashboard is a database management and analytics system designed to track and optimize the operations of an online food delivery service. It models key components such as customers, orders, food items, and restaurants, and allows users to analyze important metrics such as order volume, revenue, delivery times, and customer satisfaction. The project integrates with Power BI to visualize these metrics and KPIs, providing actionable insights to improve decision-making and service performance.

@@ -7,22 +7,32 @@
 - Data Analyst, Endurance Technologies, Pune, India, 2017 - July 2019
 
 
-# Education 
-- Master of Science in Information Systems, Pace University | New York, USA | 2019 - 2021
-- Bachelor of Engineering in Electronics and Telecommunications, Pune University |  Maharashtra, India | 2012-2015
+# Education
 
-
-
+- Master of Science in Information Systems, Pace University New York, USA, 2019 - 2021
+- Bachelor of Engineering in Electronics and Telecommunications, Pune University Maharashtra, India, 2012-2015
 
 
 ## Academic  Projects
-### Project 1
-- Description
-- [Github Repository](https://github.com/PratikNPawar/Metacritic-sentiment-analyzer)
+
+### Project Title
+- **Description**: A brief description of the project.
+- **Technologies**: Python, Flask, PostgreSQL, etc.
+- **GitHub**: [Github Repository](https://github.com/PratikNPawar/Metacritic-sentiment-analyzer)
 
 ### Project 2 
 - Description
 - Links
 
 
+## Skills
+
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, JavaScript, React
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, Docker, Jenkins
+
+
+## Contact
+For inquiries, feel free to reach out via [email](mailto:pawarrpratik91@gmail.com).
   

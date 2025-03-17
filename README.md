@@ -3,11 +3,11 @@
 Detail-oriented Data Analyst with 5+ years of experience turning complex data into actionable insights that drive business decisions. Skilled in SQL, Python, and BI tools like Power BI and Tableau to optimize reporting and automate workflows. Experienced in cloud-based data solutions, Data governance, and Data visualization to improve efficiency and foster a data-driven culture. With a strong background in Construction and Finance and Marketing, I’m ready to apply my expertise to new industries and deliver impactful results.
 
 # Work Experiance
-- **Data Analyst – Project Controls**, Macan Deve Engineers, DPC, New York, USA, March 2022 – April 2024
+- **Data Analyst – Project Controls**,Metropolitan Transportation Authority, New York, USA, March 2022 – April 2024
 - **Data Analyst**, Vetro Technologies, Inc., New York, USA, September 2021 – February 2022
 - **Senior Lead Analyst – Data Science**, Infosys Limited, New York, USA, August 2021 – September 2021
 - **Data Analyst**, Vetro Technologies, Inc., New York, USA, June 2021 – August 2021
-- **Data Analyst**, Endurance Technologies, Pune, India, January 2017 – July 2019
+- **Data Analyst**, Endurance Technologies, Pune, India, January 2015 – July 2019
 
 # Education
 
